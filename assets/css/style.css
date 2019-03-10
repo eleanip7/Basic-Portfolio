@@ -132,4 +132,60 @@ footer {
 
 }
 
+.portfolio {
+    position: relative;
+    margin-bottom: 20px;
+    width: 25%;
+    padding: 80px 0 15px 0;
+    height: 170px;
+}
+
+h3 {
+    background: #4aaaa5;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+    position: absolute;
+
+}
+
+#port1 {
+    background: url(../images/port1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#port2 {
+    background: url(../images/port2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: right;
+    top: -190px;
+    left: -420px;
+    
+}
+
+#port3 {
+    background: url(../images/port3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#port4 {
+    background: url(../images/port4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: right;
+    top: -190px;
+    left: -420px;
+}
+
+#port5 {
+    background: url(../images/port5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
 
